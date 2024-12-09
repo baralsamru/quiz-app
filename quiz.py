@@ -7,7 +7,7 @@ questions = [
     ("What does AWS stand for?", "amazon web services"),
     ("Which data structure uses LIFO (Last In, First Out) principle?", "stack"),
     ("What does GPU stand for?", "graphics processing unit"),
-    ("What does GUI stand for?", "graphical user interface"),
+    ("What does GUI stand for?", "Graphical user interface"),
 ]
 
 # Initialize score and question index
